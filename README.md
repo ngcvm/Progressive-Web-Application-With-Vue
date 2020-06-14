@@ -1,5 +1,8 @@
 # vue-pwa
 
+## Description
+A simple note app project, build as practice of Progressive Web Application book.
+
 ## Project setup
 ```
 npm install
